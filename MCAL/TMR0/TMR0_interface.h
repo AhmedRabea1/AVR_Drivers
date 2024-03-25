@@ -2,7 +2,7 @@
  * TMR0_interface.h
  *
  * Created: 3/16/2024 10:31:25 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

@@ -2,7 +2,7 @@
  * LCD_config.h
  *
  * Created: 3/6/2024 2:55:24 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

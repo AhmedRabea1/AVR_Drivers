@@ -2,7 +2,7 @@
  * LCD_interface.h
  *
  * Created: 3/6/2024 2:54:53 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

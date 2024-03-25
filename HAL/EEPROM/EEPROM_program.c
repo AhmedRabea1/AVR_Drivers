@@ -2,7 +2,7 @@
  * EEPROM_program.c
  *
  * Created: 3/24/2024 11:56:28 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #define F_CPU 16000000UL

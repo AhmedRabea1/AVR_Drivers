@@ -2,7 +2,7 @@
  * PWM_config.h
  *
  * Created: 3/17/2024 10:47:32 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

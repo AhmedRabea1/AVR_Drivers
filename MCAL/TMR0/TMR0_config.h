@@ -1,13 +1,13 @@
 /*
- * TMR0_conig.h
+ * TMR0_config.h
  *
  * Created: 3/16/2024 10:30:18 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 
-#ifndef TMR0_CONIG_H_
-#define TMR0_CONIG_H_
+#ifndef TMR0_CONFIG_H_
+#define TMR0_CONFIG_H_
 
 /*Options for TMR0 Mode:
 1- TMR0_NORMAL_MODE
@@ -36,4 +36,4 @@
 
 
 
-#endif /* TMR0_CONIG_H_ */
+#endif /* TMR0_CONFIG_H_ */

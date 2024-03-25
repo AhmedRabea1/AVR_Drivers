@@ -2,7 +2,7 @@
  * Timer1_register.h
  *
  * Created: 3/17/2024 9:05:10 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

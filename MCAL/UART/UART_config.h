@@ -2,7 +2,7 @@
  * UART_config.h
  *
  * Created: 3/22/2024 10:59:41 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

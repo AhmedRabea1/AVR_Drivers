@@ -2,7 +2,7 @@
  * GI_Prog.c
  *
  * Created: 3/3/2024 1:06:40 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"

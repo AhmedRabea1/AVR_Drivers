@@ -2,7 +2,7 @@
  * Timer1_interface.h
  *
  * Created: 3/17/2024 9:05:27 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

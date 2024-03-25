@@ -2,7 +2,7 @@
  * Timer1_private.h
  *
  * Created: 3/17/2024 9:04:48 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 
@@ -13,7 +13,7 @@
 #define TIMER1_CTC_MODE									2
 
 #define	NO_PRESCALING							1
-#define PRESCALER_8								2
+#define PRESCALER_8							2
 #define	PRESCALER_64							3
 #define PRESCALER_256							4
 #define PRESCALER_1024							5

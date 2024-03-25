@@ -2,17 +2,19 @@
  * UART_program.c
  *
  * Created: 3/22/2024 10:12:36 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"
 #include "../../LIB/bit_math.h"
-#include <string.h>
 
 #include "UART_interface.h"
 #include "UART_register.h"
 #include "UART_config.h"
 #include "UART_private.h"
+
+#include <string.h>
+
 u8 Prv_u8TransmitString[100];
 u8 Prv_u8ReceiveString[100];
 u8 Prv_u8TransmitIndex=0;

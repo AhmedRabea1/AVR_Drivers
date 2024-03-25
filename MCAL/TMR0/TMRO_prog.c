@@ -2,14 +2,14 @@
  * TMRO_prog.c
  *
  * Created: 3/16/2024 10:29:57 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"
 #include "../../LIB/bit_math.h"
 
 #include "TMR0_interface.h"
-#include "TMR0_conig.h"
+#include "TMR0_config.h"
 #include "TMR0_private.h"
 #include "TMR0_register.h"
 

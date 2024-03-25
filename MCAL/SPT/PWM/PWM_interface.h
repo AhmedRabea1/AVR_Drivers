@@ -2,7 +2,7 @@
  * PWM_interface.h
  *
  * Created: 3/17/2024 10:46:09 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

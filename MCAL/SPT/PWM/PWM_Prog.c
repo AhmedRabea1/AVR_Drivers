@@ -2,7 +2,7 @@
  * PWM_Prog.c
  *
  * Created: 3/17/2024 10:46:42 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../../LIB/std_types.h"

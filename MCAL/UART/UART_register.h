@@ -2,7 +2,7 @@
  * UART_register.h
  *
  * Created: 3/22/2024 10:13:21 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

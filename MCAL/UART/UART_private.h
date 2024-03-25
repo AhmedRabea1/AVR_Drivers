@@ -2,7 +2,7 @@
  * UART_private.h
  *
  * Created: 3/22/2024 10:59:59 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

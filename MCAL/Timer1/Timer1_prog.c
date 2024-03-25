@@ -2,7 +2,7 @@
  * Timer1_prog.c
  *
  * Created: 3/17/2024 9:04:31 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"

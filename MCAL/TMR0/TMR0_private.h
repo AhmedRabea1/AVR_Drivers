@@ -2,7 +2,7 @@
  * TMR0_private.h
  *
  * Created: 3/16/2024 10:32:19 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 
@@ -16,7 +16,7 @@
 
 
 #define	NO_PRESCALING							1
-#define PRESCALER_8								2
+#define PRESCALER_8							2
 #define	PRESCALER_64							3
 #define PRESCALER_256							4
 #define PRESCALER_1024							5

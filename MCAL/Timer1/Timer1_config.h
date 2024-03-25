@@ -2,7 +2,7 @@
  * Timer1_config.h
  *
  * Created: 3/17/2024 9:05:44 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

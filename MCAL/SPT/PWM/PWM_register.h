@@ -2,7 +2,7 @@
  * PWM_register.h
  *
  * Created: 3/17/2024 10:47:01 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

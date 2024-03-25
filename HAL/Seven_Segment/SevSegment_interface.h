@@ -2,7 +2,7 @@
  * SevSegment_interface.h
  *
  * Created: 3/6/2024 12:32:33 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

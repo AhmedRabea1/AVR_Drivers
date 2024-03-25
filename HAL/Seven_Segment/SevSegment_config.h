@@ -2,7 +2,7 @@
  * SevSegment_config.h
  *
  * Created: 3/6/2024 12:32:14 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

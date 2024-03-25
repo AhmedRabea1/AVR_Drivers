@@ -2,7 +2,7 @@
  * WTD_config.c
  *
  * Created: 3/19/2024 10:19:29 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"

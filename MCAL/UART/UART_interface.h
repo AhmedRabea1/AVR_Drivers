@@ -2,7 +2,7 @@
  * UART_interface.h
  *
  * Created: 3/22/2024 10:12:57 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

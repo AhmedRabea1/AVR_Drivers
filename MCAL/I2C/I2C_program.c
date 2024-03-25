@@ -2,7 +2,7 @@
  * I2C_program.c
  *
  * Created: 3/23/2024 4:25:39 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"

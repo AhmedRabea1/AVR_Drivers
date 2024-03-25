@@ -2,7 +2,7 @@
  * PWM_private.h
  *
  * Created: 3/17/2024 10:47:46 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

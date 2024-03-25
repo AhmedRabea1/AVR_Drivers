@@ -2,7 +2,7 @@
  * I2C_interface.h
  *
  * Created: 3/23/2024 4:26:23 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

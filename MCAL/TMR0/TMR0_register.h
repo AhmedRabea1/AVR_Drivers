@@ -2,7 +2,7 @@
  * TMR0_register.h
  *
  * Created: 3/16/2024 10:31:03 AM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

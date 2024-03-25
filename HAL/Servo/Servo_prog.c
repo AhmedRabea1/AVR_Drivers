@@ -2,7 +2,7 @@
  * Servo_prog.c
  *
  * Created: 3/18/2024 1:05:35 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"

@@ -2,7 +2,7 @@
  * I2C_register.h
  *
  * Created: 3/23/2024 4:35:36 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 

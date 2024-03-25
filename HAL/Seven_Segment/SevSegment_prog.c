@@ -2,13 +2,12 @@
  * SevSegment_prog.c
  *
  * Created: 3/6/2024 12:32:56 PM
- *  Author: lenovo
+ *  Author: Ahmed Rabea
  */ 
 
 #include "../../LIB/std_types.h"
 #include "../../LIB/bit_math.h"
 #include "../../MCAL/DIO/DIO_interface.h"
-#include "../../MCAL/DIO/DIO_config.h"
 #include "SevSegment_interface.h"
 #include "SevSegment_config.h"
 
